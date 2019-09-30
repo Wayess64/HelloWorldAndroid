@@ -14,7 +14,7 @@
     <Button
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="Hello people."
+    android:text="Go commit die."
     android:textSize="50sp"
     android:id="@+id/button"
     app:layout_constraintBottom_toBottomOf="parent"
@@ -24,7 +24,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello people."
+        android:text="Poop is you."
         android:textSize="50sp"
         android:id="@+id/button1"
         app:layout_constraintBottom_toBottomOf="parent"
